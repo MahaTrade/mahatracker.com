@@ -1,22 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/static/js/main.0df65c8a.chunk.js",
-    "main.js.map": "/static/js/main.0df65c8a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7687151c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7687151c.js.map",
-    "static/js/2.222cc99d.chunk.js": "/static/js/2.222cc99d.chunk.js",
-    "static/js/2.222cc99d.chunk.js.map": "/static/js/2.222cc99d.chunk.js.map",
-    "static/js/3.08e20f37.chunk.js": "/static/js/3.08e20f37.chunk.js",
-    "static/js/3.08e20f37.chunk.js.map": "/static/js/3.08e20f37.chunk.js.map",
+    "main.css": "/static/css/main.8267de40.chunk.css",
+    "main.js": "/static/js/main.b3195ca2.chunk.js",
+    "main.js.map": "/static/js/main.b3195ca2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e4ce5ce7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e4ce5ce7.js.map",
+    "static/js/2.0e6bd69e.chunk.js": "/static/js/2.0e6bd69e.chunk.js",
+    "static/js/2.0e6bd69e.chunk.js.map": "/static/js/2.0e6bd69e.chunk.js.map",
+    "static/js/3.9c9de921.chunk.js": "/static/js/3.9c9de921.chunk.js",
+    "static/js/3.9c9de921.chunk.js.map": "/static/js/3.9c9de921.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.222cc99d.chunk.js.LICENSE.txt": "/static/js/2.222cc99d.chunk.js.LICENSE.txt"
+    "static/css/main.8267de40.chunk.css.map": "/static/css/main.8267de40.chunk.css.map",
+    "static/js/2.0e6bd69e.chunk.js.LICENSE.txt": "/static/js/2.0e6bd69e.chunk.js.LICENSE.txt",
+    "static/media/Close.372add4c.svg": "/static/media/Close.372add4c.svg",
+    "static/media/Graph.92488185.svg": "/static/media/Graph.92488185.svg",
+    "static/media/LeftArrowIcon.b7d38792.svg": "/static/media/LeftArrowIcon.b7d38792.svg",
+    "static/media/MAHAToken.c8e236b5.svg": "/static/media/MAHAToken.c8e236b5.svg",
+    "static/media/Plus.9c6df0aa.svg": "/static/media/Plus.9c6df0aa.svg",
+    "static/media/Search.09f0359d.svg": "/static/media/Search.09f0359d.svg",
+    "static/media/Telegram.72a660ab.svg": "/static/media/Telegram.72a660ab.svg",
+    "static/media/avatar.82f61dd2.svg": "/static/media/avatar.82f61dd2.svg",
+    "static/media/logo.c35e51c2.svg": "/static/media/logo.c35e51c2.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7687151c.js",
-    "static/js/2.222cc99d.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.0df65c8a.chunk.js"
+    "static/js/runtime-main.e4ce5ce7.js",
+    "static/js/2.0e6bd69e.chunk.js",
+    "static/css/main.8267de40.chunk.css",
+    "static/js/main.b3195ca2.chunk.js"
   ]
 }
